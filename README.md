@@ -51,19 +51,17 @@ use pixel8bit::pixelate::apply_pixelation;
 use pixel8bit::symmetry::{detect_symmetry, mirror_image};
 ```
 
-## 🖼️ Examples
+## 🖼️ Pixelation Examples
 
-**Original Image:**
 
-![Original Image](examples/original.jpg)
+| Block Size | Result |
+|------------|---------|
+| Original | ![Original Image](docs/assets/original.png) |
+| 8x8 | ![Pixelated Image (8x8)](docs/assets/output_8.png) |
+| 16x16 | ![Pixelated Image (16x16)](docs/assets/output_16.png) |
+| 32x32 | ![Pixelated Image (32x32)](docs/assets/output_32.png) |
+| 64x64 | ![Pixelated Image (64x64)](docs/assets/output_64.png) |
 
-**Pixelated Image:**
-
-![Pixelated Image](examples/pixelated.jpg)
-
-**Pixelated and Mirrored Image:**
-
-![Pixelated and Mirrored Image](examples/pixelated_mirrored.jpg)
 
 ## 🤝 Contributing
 

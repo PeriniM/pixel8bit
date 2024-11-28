@@ -1,5 +1,5 @@
 /target
 *.jpg
 *.png
-!examples/*.jpg
-!examples/*.png
+!docs/assets/*.jpg
+!docs/assets/*.png
