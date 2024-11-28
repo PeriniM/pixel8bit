@@ -1,4 +1,4 @@
-# 📸 pixel8bit
+# 👾 pixel8bit
 
 **pixel8bit** is a Rust library and command-line tool that applies 8-bit pixelation effects to images, with optional symmetry detection and mirroring.
 
