@@ -1,0 +1,5 @@
+/target
+*.jpg
+*.png
+!examples/*.jpg
+!examples/*.png
