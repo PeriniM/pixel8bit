@@ -1,5 +1,10 @@
 # 👾 pixel8bit
 
+[![Crates.io](https://img.shields.io/crates/v/pixel8bit)](https://crates.io/crates/pixel8bit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/PeriniM/pixel8bit/ci.yml?branch=main)](https://github.com/PeriniM/pixel8bit/actions)
+[![Crates.io Downloads](https://img.shields.io/crates/d/pixel8bit)](https://crates.io/crates/pixel8bit)
+
 **pixel8bit** is a Rust library and command-line tool that applies 8-bit pixelation effects to images, with optional symmetry detection and mirroring.
 
 ## ✨ Features
