@@ -204,7 +204,7 @@ dependencies = [
 
 [[package]]
 name = "pixel8bit"
-version = "0.1.0"
+version = "1.0.1"
 dependencies = [
  "image",
 ]
