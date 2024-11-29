@@ -10,7 +10,7 @@
         }
       ],
       [
-        "@semantic-release-cargo/semantic-release-cargo",
+        "semantic-release-cargo",
         {
           "cargoPublish": true
         }
@@ -23,5 +23,5 @@
         }
       ]
     ]
-  }
-  
+}
+    

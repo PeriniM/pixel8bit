@@ -40,7 +40,7 @@ jobs:
           node-version: '18'
 
       - name: Install Dependencies
-        run: npm install -g semantic-release @semantic-release/changelog @semantic-release/git @semantic-release/exec @semantic-release/cargo
+        run: npm install -g semantic-release semantic-release-cargo @semantic-release/changelog @semantic-release/git @semantic-release/commit-analyzer @semantic-release/release-notes-generator
 
       - name: Run Semantic Release
         env:
