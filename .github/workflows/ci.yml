@@ -27,7 +27,7 @@ jobs:
         run: cargo test --verbose
 
   release:
-    name: Release
+    name: Semantic Release and Crates.io Publish
     needs: build
     runs-on: ubuntu-latest
     steps:
@@ -40,7 +40,7 @@ jobs:
           node-version: '18'
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm install -g semantic-release @semantic-release/changelog @semantic-release/git @semantic-release/exec @semantic-release/cargo
 
       - name: Run Semantic Release
         env:
