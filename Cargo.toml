@@ -1,6 +1,6 @@
 [package]
 name = "pixel8bit"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 authors = ["Marco Perini <marco@perini.dev>"]
 description = "A Rust library for applying 8-bit pixelation effects with symmetry detection and mirroring."

@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/PeriniM/pixel8bit/compare/v1.0.1...v1.0.2) (2024-11-29)
+
+
+### Bug Fixes
+
+* updated flow ([0a4428e](https://github.com/PeriniM/pixel8bit/commit/0a4428eb6ac36ca87a731e6308a6e89ba6feb81b))
+
 ## [1.0.1](https://github.com/PeriniM/pixel8bit/compare/v1.0.0...v1.0.1) (2024-11-29)
 
 
