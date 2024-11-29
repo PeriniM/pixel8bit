@@ -6,6 +6,9 @@ on:
       - main
   pull_request:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Build and Test
@@ -40,7 +43,7 @@ jobs:
           node-version: '18'
 
       - name: Install Dependencies
-        run: npm install -g semantic-release semantic-release-cargo @semantic-release/changelog @semantic-release/git @semantic-release/commit-analyzer @semantic-release/release-notes-generator
+        run: npm install -g semantic-release semantic-release-cargo @semantic-release/changelog @semantic-release/git @semantic-release/github @semantic-release/commit-analyzer @semantic-release/release-notes-generator
 
       - name: Run Semantic Release
         env:
