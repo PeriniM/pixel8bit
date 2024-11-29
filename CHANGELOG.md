@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/PeriniM/pixel8bit/compare/v1.0.0...v1.0.1) (2024-11-29)
+
+
+### Bug Fixes
+
+* ci ([726ddee](https://github.com/PeriniM/pixel8bit/commit/726ddee6f1393798ed57ce09c14c320e8a1217c9))
+* semrel cargo ([367d921](https://github.com/PeriniM/pixel8bit/commit/367d921504f4b3cb9288480aa0c39942d6aa7462))
+* updated ci ([467a84e](https://github.com/PeriniM/pixel8bit/commit/467a84e16f7ef62068a923d395c01ef7e8360933))
+
 # 1.0.0 (2024-11-29)
 
 
